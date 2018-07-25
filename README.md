@@ -4,9 +4,9 @@
 ## My Sub Title
 
 * note1
-  *a
-  *b
-  *c
+  * a
+  * b
+  * c
 * note2
   * b
   
@@ -17,3 +17,5 @@ As Kanye West ~~said~~:
 
 I think you should use an
 `<addr>` element here instead.
+
+```You can select up to one-month range on your contributions calendar.```
